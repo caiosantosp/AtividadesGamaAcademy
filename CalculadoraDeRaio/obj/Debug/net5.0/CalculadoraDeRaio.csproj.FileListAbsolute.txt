@@ -1,0 +1,16 @@
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\CalculadoraDeRaio\bin\Debug\net5.0\CalculadoraDeRaio.exe
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\CalculadoraDeRaio\bin\Debug\net5.0\CalculadoraDeRaio.deps.json
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\CalculadoraDeRaio\bin\Debug\net5.0\CalculadoraDeRaio.runtimeconfig.json
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\CalculadoraDeRaio\bin\Debug\net5.0\CalculadoraDeRaio.runtimeconfig.dev.json
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\CalculadoraDeRaio\bin\Debug\net5.0\CalculadoraDeRaio.dll
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\CalculadoraDeRaio\bin\Debug\net5.0\ref\CalculadoraDeRaio.dll
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\CalculadoraDeRaio\bin\Debug\net5.0\CalculadoraDeRaio.pdb
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\CalculadoraDeRaio\obj\Debug\net5.0\CalculadoraDeRaio.csproj.AssemblyReference.cache
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\CalculadoraDeRaio\obj\Debug\net5.0\CalculadoraDeRaio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\CalculadoraDeRaio\obj\Debug\net5.0\CalculadoraDeRaio.AssemblyInfoInputs.cache
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\CalculadoraDeRaio\obj\Debug\net5.0\CalculadoraDeRaio.AssemblyInfo.cs
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\CalculadoraDeRaio\obj\Debug\net5.0\CalculadoraDeRaio.csproj.CoreCompileInputs.cache
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\CalculadoraDeRaio\obj\Debug\net5.0\CalculadoraDeRaio.dll
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\CalculadoraDeRaio\obj\Debug\net5.0\ref\CalculadoraDeRaio.dll
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\CalculadoraDeRaio\obj\Debug\net5.0\CalculadoraDeRaio.pdb
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\CalculadoraDeRaio\obj\Debug\net5.0\CalculadoraDeRaio.genruntimeconfig.cache

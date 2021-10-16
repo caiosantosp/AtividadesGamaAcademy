@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CalculadoraDeRaio/1.0.0": {
+        "runtime": {
+          "CalculadoraDeRaio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculadoraDeRaio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
