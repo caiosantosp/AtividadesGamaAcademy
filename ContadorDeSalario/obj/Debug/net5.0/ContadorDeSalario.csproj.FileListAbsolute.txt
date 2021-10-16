@@ -1,0 +1,16 @@
+C:\Users\Caio Santos\Desktop\Atividade\Atividade 2\ContadorDeSalario\bin\Debug\net5.0\ContadorDeSalario.exe
+C:\Users\Caio Santos\Desktop\Atividade\Atividade 2\ContadorDeSalario\bin\Debug\net5.0\ContadorDeSalario.deps.json
+C:\Users\Caio Santos\Desktop\Atividade\Atividade 2\ContadorDeSalario\bin\Debug\net5.0\ContadorDeSalario.runtimeconfig.json
+C:\Users\Caio Santos\Desktop\Atividade\Atividade 2\ContadorDeSalario\bin\Debug\net5.0\ContadorDeSalario.runtimeconfig.dev.json
+C:\Users\Caio Santos\Desktop\Atividade\Atividade 2\ContadorDeSalario\bin\Debug\net5.0\ContadorDeSalario.dll
+C:\Users\Caio Santos\Desktop\Atividade\Atividade 2\ContadorDeSalario\bin\Debug\net5.0\ref\ContadorDeSalario.dll
+C:\Users\Caio Santos\Desktop\Atividade\Atividade 2\ContadorDeSalario\bin\Debug\net5.0\ContadorDeSalario.pdb
+C:\Users\Caio Santos\Desktop\Atividade\Atividade 2\ContadorDeSalario\obj\Debug\net5.0\ContadorDeSalario.csproj.AssemblyReference.cache
+C:\Users\Caio Santos\Desktop\Atividade\Atividade 2\ContadorDeSalario\obj\Debug\net5.0\ContadorDeSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Santos\Desktop\Atividade\Atividade 2\ContadorDeSalario\obj\Debug\net5.0\ContadorDeSalario.AssemblyInfoInputs.cache
+C:\Users\Caio Santos\Desktop\Atividade\Atividade 2\ContadorDeSalario\obj\Debug\net5.0\ContadorDeSalario.AssemblyInfo.cs
+C:\Users\Caio Santos\Desktop\Atividade\Atividade 2\ContadorDeSalario\obj\Debug\net5.0\ContadorDeSalario.csproj.CoreCompileInputs.cache
+C:\Users\Caio Santos\Desktop\Atividade\Atividade 2\ContadorDeSalario\obj\Debug\net5.0\ContadorDeSalario.dll
+C:\Users\Caio Santos\Desktop\Atividade\Atividade 2\ContadorDeSalario\obj\Debug\net5.0\ref\ContadorDeSalario.dll
+C:\Users\Caio Santos\Desktop\Atividade\Atividade 2\ContadorDeSalario\obj\Debug\net5.0\ContadorDeSalario.pdb
+C:\Users\Caio Santos\Desktop\Atividade\Atividade 2\ContadorDeSalario\obj\Debug\net5.0\ContadorDeSalario.genruntimeconfig.cache
