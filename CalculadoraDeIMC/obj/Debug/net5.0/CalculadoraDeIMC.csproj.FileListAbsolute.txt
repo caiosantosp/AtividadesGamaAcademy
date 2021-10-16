@@ -1,0 +1,32 @@
+C:\Users\Caio Santos\Desktop\Atividade\CalculadoraDeIMC\bin\Debug\net5.0\CalculadoraDeIMC.exe
+C:\Users\Caio Santos\Desktop\Atividade\CalculadoraDeIMC\bin\Debug\net5.0\CalculadoraDeIMC.deps.json
+C:\Users\Caio Santos\Desktop\Atividade\CalculadoraDeIMC\bin\Debug\net5.0\CalculadoraDeIMC.runtimeconfig.json
+C:\Users\Caio Santos\Desktop\Atividade\CalculadoraDeIMC\bin\Debug\net5.0\CalculadoraDeIMC.runtimeconfig.dev.json
+C:\Users\Caio Santos\Desktop\Atividade\CalculadoraDeIMC\bin\Debug\net5.0\CalculadoraDeIMC.dll
+C:\Users\Caio Santos\Desktop\Atividade\CalculadoraDeIMC\bin\Debug\net5.0\ref\CalculadoraDeIMC.dll
+C:\Users\Caio Santos\Desktop\Atividade\CalculadoraDeIMC\bin\Debug\net5.0\CalculadoraDeIMC.pdb
+C:\Users\Caio Santos\Desktop\Atividade\CalculadoraDeIMC\obj\Debug\net5.0\CalculadoraDeIMC.csproj.AssemblyReference.cache
+C:\Users\Caio Santos\Desktop\Atividade\CalculadoraDeIMC\obj\Debug\net5.0\CalculadoraDeIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Santos\Desktop\Atividade\CalculadoraDeIMC\obj\Debug\net5.0\CalculadoraDeIMC.AssemblyInfoInputs.cache
+C:\Users\Caio Santos\Desktop\Atividade\CalculadoraDeIMC\obj\Debug\net5.0\CalculadoraDeIMC.AssemblyInfo.cs
+C:\Users\Caio Santos\Desktop\Atividade\CalculadoraDeIMC\obj\Debug\net5.0\CalculadoraDeIMC.csproj.CoreCompileInputs.cache
+C:\Users\Caio Santos\Desktop\Atividade\CalculadoraDeIMC\obj\Debug\net5.0\CalculadoraDeIMC.dll
+C:\Users\Caio Santos\Desktop\Atividade\CalculadoraDeIMC\obj\Debug\net5.0\ref\CalculadoraDeIMC.dll
+C:\Users\Caio Santos\Desktop\Atividade\CalculadoraDeIMC\obj\Debug\net5.0\CalculadoraDeIMC.pdb
+C:\Users\Caio Santos\Desktop\Atividade\CalculadoraDeIMC\obj\Debug\net5.0\CalculadoraDeIMC.genruntimeconfig.cache
+C:\Users\Caio Santos\Desktop\Atividade\Calculadora de IMC\CalculadoraDeIMC\bin\Debug\net5.0\CalculadoraDeIMC.exe
+C:\Users\Caio Santos\Desktop\Atividade\Calculadora de IMC\CalculadoraDeIMC\bin\Debug\net5.0\CalculadoraDeIMC.deps.json
+C:\Users\Caio Santos\Desktop\Atividade\Calculadora de IMC\CalculadoraDeIMC\bin\Debug\net5.0\CalculadoraDeIMC.runtimeconfig.json
+C:\Users\Caio Santos\Desktop\Atividade\Calculadora de IMC\CalculadoraDeIMC\bin\Debug\net5.0\CalculadoraDeIMC.runtimeconfig.dev.json
+C:\Users\Caio Santos\Desktop\Atividade\Calculadora de IMC\CalculadoraDeIMC\bin\Debug\net5.0\CalculadoraDeIMC.dll
+C:\Users\Caio Santos\Desktop\Atividade\Calculadora de IMC\CalculadoraDeIMC\bin\Debug\net5.0\ref\CalculadoraDeIMC.dll
+C:\Users\Caio Santos\Desktop\Atividade\Calculadora de IMC\CalculadoraDeIMC\bin\Debug\net5.0\CalculadoraDeIMC.pdb
+C:\Users\Caio Santos\Desktop\Atividade\Calculadora de IMC\CalculadoraDeIMC\obj\Debug\net5.0\CalculadoraDeIMC.csproj.AssemblyReference.cache
+C:\Users\Caio Santos\Desktop\Atividade\Calculadora de IMC\CalculadoraDeIMC\obj\Debug\net5.0\CalculadoraDeIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Santos\Desktop\Atividade\Calculadora de IMC\CalculadoraDeIMC\obj\Debug\net5.0\CalculadoraDeIMC.AssemblyInfoInputs.cache
+C:\Users\Caio Santos\Desktop\Atividade\Calculadora de IMC\CalculadoraDeIMC\obj\Debug\net5.0\CalculadoraDeIMC.AssemblyInfo.cs
+C:\Users\Caio Santos\Desktop\Atividade\Calculadora de IMC\CalculadoraDeIMC\obj\Debug\net5.0\CalculadoraDeIMC.csproj.CoreCompileInputs.cache
+C:\Users\Caio Santos\Desktop\Atividade\Calculadora de IMC\CalculadoraDeIMC\obj\Debug\net5.0\CalculadoraDeIMC.dll
+C:\Users\Caio Santos\Desktop\Atividade\Calculadora de IMC\CalculadoraDeIMC\obj\Debug\net5.0\ref\CalculadoraDeIMC.dll
+C:\Users\Caio Santos\Desktop\Atividade\Calculadora de IMC\CalculadoraDeIMC\obj\Debug\net5.0\CalculadoraDeIMC.pdb
+C:\Users\Caio Santos\Desktop\Atividade\Calculadora de IMC\CalculadoraDeIMC\obj\Debug\net5.0\CalculadoraDeIMC.genruntimeconfig.cache
