@@ -1,0 +1,16 @@
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\Nota\Nota\bin\Debug\net5.0\Nota.exe
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\Nota\Nota\bin\Debug\net5.0\Nota.deps.json
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\Nota\Nota\bin\Debug\net5.0\Nota.runtimeconfig.json
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\Nota\Nota\bin\Debug\net5.0\Nota.runtimeconfig.dev.json
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\Nota\Nota\bin\Debug\net5.0\Nota.dll
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\Nota\Nota\bin\Debug\net5.0\ref\Nota.dll
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\Nota\Nota\bin\Debug\net5.0\Nota.pdb
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\Nota\Nota\obj\Debug\net5.0\Nota.csproj.AssemblyReference.cache
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\Nota\Nota\obj\Debug\net5.0\Nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\Nota\Nota\obj\Debug\net5.0\Nota.AssemblyInfoInputs.cache
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\Nota\Nota\obj\Debug\net5.0\Nota.AssemblyInfo.cs
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\Nota\Nota\obj\Debug\net5.0\Nota.csproj.CoreCompileInputs.cache
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\Nota\Nota\obj\Debug\net5.0\Nota.dll
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\Nota\Nota\obj\Debug\net5.0\ref\Nota.dll
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\Nota\Nota\obj\Debug\net5.0\Nota.pdb
+C:\Users\Caio Santos\Desktop\Aula\ativi 3\Nota\Nota\obj\Debug\net5.0\Nota.genruntimeconfig.cache
